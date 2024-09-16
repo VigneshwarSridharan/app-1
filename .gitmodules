@@ -1,0 +1,3 @@
+[submodule "db-client"]
+	path = db-client
+	url = https://github.com/VigneshwarSridharan/db-client.git
